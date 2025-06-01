@@ -1,6 +1,9 @@
-streamlit
-pdfplumber
-python-dotenv
-requests
-spacy
-en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+spacy==3.8.7
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+nltk==3.9.1
+pdfplumber==0.11.6
+pyresparser==1.0.6
+transformers==4.52.4
+streamlit==1.45.1
+pandas==2.2.3
+numpy==2.2.6
